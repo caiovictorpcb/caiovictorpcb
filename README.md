@@ -1,7 +1,5 @@
 ## Hello, welcome to my profile! 👋
 
-- 🔭 Future back-end developer
-
 ## Skills
 
 <div style="display: inline_block"><br>
