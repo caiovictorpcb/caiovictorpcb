@@ -1,5 +1,7 @@
 ## Hello, welcome to my profile! 👋
 
+Computer Science Student
+
 ## Skills
 
 <div style="display: inline_block"><br>
