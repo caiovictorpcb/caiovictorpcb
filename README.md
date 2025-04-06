@@ -1,8 +1,7 @@
 
 # 👋 Hey, I'm Caio Victor
 
-I'm a **Software Engineer** passionate about building helpful, fast, and scalable applications.  
-From data pipelines to interactive web apps and api's, I'm always looking for ways to improve the developer experience — both mine and others'.
+I'm a **Software Engineer** passionate about building helpful, fast, and scalable applications. From data pipelines to interactive web apps and api's.
 
 ## 🛠️ Tech Stack
 
